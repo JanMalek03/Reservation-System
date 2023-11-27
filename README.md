@@ -13,11 +13,11 @@ This Reservation System is a networked application that allows users to make and
 ## Getting Started
 To get the system up and running, ensure Python is installed on your machine by downloading it from the [the official website](https://www.python.org/downloads/). Start the server by navigating to the project directory and running:
 
-python server.py
+    python server.py
 
 For the client interface, execute:
 
-python client.py
+    python client.py
 
 in a separate command line window.
 
@@ -40,6 +40,6 @@ This project is a testament to the application of these concepts in a working so
 
 ## Contributing
 
-Contributions to this project are welcome. If you want to improve the game or add new features, feel free to fork this repository and submit a pull request.
+We welcome contributions to the Python Reservation System. Whether you have suggestions for improvements, want to fix bugs, or would like to add new features, your input is appreciated. Please feel free to fork this repository, make your changes, and submit a pull request.
 
-Enjoy playing the game!
+Thank you for participating in the development of this reservation system!
