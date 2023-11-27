@@ -40,6 +40,6 @@ This project is a testament to the application of these concepts in a working so
 
 ## Contributing
 
-We welcome contributions to the Python Reservation System. Whether you have suggestions for improvements, want to fix bugs, or would like to add new features, your input is appreciated. Please feel free to fork this repository, make your changes, and submit a pull request.
+I welcome contributions to the Python Reservation System. Whether you have suggestions for improvements, want to fix bugs, or would like to add new features, your input is appreciated. Please feel free to fork this repository, make your changes, and submit a pull request.
 
 Thank you for participating in the development of this reservation system!
