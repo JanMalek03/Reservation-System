@@ -27,7 +27,7 @@ The client application provides a menu-driven interface. Once connected to the s
 
 
 ## Learnings and Takeaways
-Building this system allowed me to delve into various technical areas, including:
+Building this system has allowed me to improve in various technical areas including:
 
 - **Threading in Python**: Python's threading capabilities to manage concurrent client connections.
 - **Socket Programming**: Network communication using Python's socket programming.
